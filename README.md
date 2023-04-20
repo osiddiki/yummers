@@ -1,2 +1,3 @@
 # yummers
-generative api for recipes
+website for generating recipes
+
